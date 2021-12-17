@@ -1,7 +1,7 @@
 id: P000823
 initial_creation_type: ocr
 created_at: 19/05/2021
-last_modified_at: 24/11/2021
+last_modified_at: 2021-12-17 10:12:19.368840
 source_metadata:
   id: bdr:W3CN4863
   title: རྒྱལ་བའི་བསྟན་འགྱུར་ལྷ་ས་དཔར་མའི་དཀར་ཆག
@@ -11,3 +11,5 @@ source_metadata:
       title: ''
       base_file: v001.txt
   author: ''
+  access: http://purl.bdrc.io/admindata/AccessRestrictedTemporarily
+  restrictedInChina: false
